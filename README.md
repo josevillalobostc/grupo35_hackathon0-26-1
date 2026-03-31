@@ -46,6 +46,9 @@ Un TA (que no diremos quién 🤫) volvió a meter mano en el repositorio y romp
 
 ## ✅ Checklist del equipo (issues a crear por el líder)
 - [x] Item 1: Conflicto solucionado
+- [x] Item 2: Conflicto .css arreglado
+- [x] Item 3: index corregido
+- [x] Item 4: Página desplegada
 
 ### #1 — Datos personales (1 PR por persona)
 
