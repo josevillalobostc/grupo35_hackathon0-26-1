@@ -1,4 +1,6 @@
 # 🚀 Hackatón 1 – CS2031
+Pagina web : https://josevillalobostc.github.io/grupo35_hackathon0-26-1/
+
 
 ¡Bienvenidos de vuelta! 🎉
 Después de la experiencia de la Hackatón 0, ya saben lo que se viene: colaboración bajo presión, conflictos de Git y trabajo en equipo real.
